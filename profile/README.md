@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SillageLabs/.github/main/assets/images/ChatGPT%20Image%2014%20sept.%202026%2C%2017_19_14.png" alt="Bannière SillageLabs" width="100%">
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/SillageLabs/.github/main/assets/images/SillageLabs-logo-LinkedIn-400x400.png" alt="Logo SillageLabs" width="140">
 </p>
 
