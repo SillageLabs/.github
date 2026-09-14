@@ -34,11 +34,11 @@ Si un système agit, filtre, recommande, masque, classe ou modifie une expérien
 
 Nous ne concevons pas de mécanismes dont l’objectif principal est de maximiser artificiellement :
 
-- le temps passé ;
-- le nombre de clics ;
-- la dépendance ;
-- le retour compulsif ;
-- la pression émotionnelle.
+- le temps passé
+- le nombre de clics
+- la dépendance
+- le retour compulsif
+- la pression émotionnelle
 
 Un produit SillageLabs doit servir une intention humaine identifiable, pas créer de l’engagement pour lui-même.
 
@@ -52,11 +52,11 @@ Quand c’est pertinent, le traitement local est privilégié.
 
 L’utilisateur doit pouvoir savoir :
 
-- ce qui est conservé ;
-- pourquoi ;
-- où ;
-- pendant combien de temps ;
-- comment le modifier ou l’effacer.
+- ce qui est conservé
+- pourquoi
+- où
+- pendant combien de temps
+- comment le modifier ou l’effacer
 
 ---
 
@@ -66,9 +66,9 @@ Un système ne doit jamais présenter une hypothèse comme une vérité sur une 
 
 Nous distinguons explicitement :
 
-- ce que l’utilisateur a déclaré ;
-- ce que le produit a réellement observé ;
-- ce que l’IA suppose ou estime.
+- ce que l’utilisateur a déclaré
+- ce que le produit a réellement observé
+- ce que l’IA suppose ou estime
 
 Une supposition doit rester identifiable comme telle.
 
@@ -96,12 +96,12 @@ Nous utilisons l’intelligence artificielle pour augmenter la capacité d’agi
 
 Cela implique de privilégier :
 
-- l’autonomie ;
-- la compréhension ;
-- la confidentialité ;
-- le contrôle ;
-- la réversibilité ;
-- la dignité de l’utilisateur.
+- l’autonomie
+- la compréhension
+- la confidentialité
+- le contrôle
+- la réversibilité
+- la dignité de l’utilisateur
 
 ---
 
@@ -111,11 +111,11 @@ Un dépôt GitHub ne doit pas seulement raconter le code.
 
 README, rapports, décisions et état du projet doivent permettre à une personne de comprendre :
 
-- ce que le produit fait ;
-- pourquoi il existe ;
-- ce qui fonctionne ;
-- ce qui reste imparfait ;
-- quelles limites il ne doit pas franchir.
+- ce que le produit fait
+- pourquoi il existe
+- ce qui fonctionne
+- ce qui reste imparfait
+- quelles limites il ne doit pas franchir
 
 ---
 
