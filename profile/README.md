@@ -70,12 +70,12 @@ Mais utiliser l’IA ne signifie pas retirer l’humain du processus.
 
 Nous cherchons au contraire à construire des outils :
 
-- utiles ;
-- transparents ;
-- explicables ;
-- respectueux de la vie privée ;
-- réversibles ;
-- compréhensibles par leurs utilisateurs.
+- utiles
+- transparents
+- explicables
+- respectueux de la vie privée
+- réversibles
+- compréhensibles par leurs utilisateurs
 
 ---
 
