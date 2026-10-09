@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SillageLabs/.github/main/assets/images/sillagelabs-banniere-linkedin.jpg" alt="SillageLabs — L’IA construit. L’humain décide." width="780">
+  <img src="https://raw.githubusercontent.com/SillageLabs/.github/main/assets/images/SillageLabs_banniere_GitHub_HQ%281%29.jpg" alt="SillageLabs — L’IA construit. L’humain décide." width="1000">
 </p>
 
 # SillageLabs
