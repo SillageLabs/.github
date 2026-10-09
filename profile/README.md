@@ -4,83 +4,77 @@
 
 # SillageLabs
 
-## **L’IA construit. L’humain décide.**
+## L’IA construit. L’humain décide.
 
-**SillageLabs est un studio de création numérique qui conçoit avec l’IA des outils au service de l’autonomie humaine.**
+**SillageLabs est un laboratoire indépendant de création et d’expérimentation numérique, porté par Nicolas Arramy.** Il explore le réemploi informatique, les logiciels libres, l’électronique et les technologies citoyennes.
 
-> **Des technologies qui travaillent pour les humains, pas sur eux.**
+> Des technologies qui travaillent pour les humains, pas sur eux.
 
----
-
-## Notre ligne
-
-Nous utilisons l’intelligence artificielle pour **augmenter la capacité d’agir des humains**, jamais pour leur retirer du choix.
-
-L’IA peut proposer, analyser, construire, expliquer ou automatiser.
-
-**La décision finale reste humaine.**
+**Statut :** initiative indépendante en développement. La présentation de ces travaux ne signifie pas qu’une société, une équipe salariée, une offre commerciale ou des partenariats sont déjà constitués.
 
 ---
 
-## Nos principes
+## Qui porte SillageLabs ?
 
-Tous les projets SillageLabs partagent le même socle :
+Je suis Nicolas Arramy, professionnel du reconditionnement informatique, de la coordination d’atelier et de l’encadrement d’équipes techniques, notamment en entreprise adaptée.
 
-- **L’humain garde la décision finale.**
-- **Tout mécanisme important doit pouvoir être expliqué.**
-- **Pas de manipulation destinée à maximiser artificiellement l’engagement, le temps passé ou la dépendance.**
-- **Les données sont limitées à ce qui est utile, contrôlables et effaçables.**
-- **Le traitement local est privilégié lorsqu’il est pertinent.**
-- **Ce qui est déclaré, observé ou supposé ne doit jamais être confondu.**
-- **Une automatisation importante doit rester réversible.**
-- **Un produit doit servir une intention humaine identifiable.**
-- **Les projets doivent rester compréhensibles par des humains, pas seulement par leur code.**
+Avec SillageLabs, je rassemble des expérimentations qui prolongent mon expérience de terrain : réparer plutôt que remplacer, rendre les outils compréhensibles et transmettre des savoir-faire.
 
-👉 La version complète est dans **[la charte SillageLabs](https://github.com/SillageLabs/.github/blob/main/PRINCIPES.md)**.
+Le **« je »** désigne le porteur du projet. **« SillageLabs »** désigne le laboratoire et ses réalisations. Le **« nous »** est réservé aux collaborations effectivement engagées et identifiées.
 
----
+## Ce que je peux apporter
 
-## Projets en cours
+Ces domaines constituent des **compétences et des pistes de coopération**, pas un catalogue de prestations déjà commercialisées :
 
-### 🌊 CRÉNEAU
+- **Réemploi numérique :** diagnostic, tests, effacement, préparation et prolongation de la vie des équipements.
+- **Linux et logiciels libres :** installation, expérimentation, adaptation et partage de connaissances.
+- **Prototypage :** électronique, fabrication additive et conception de pièces adaptées à des besoins concrets.
+- **Ateliers et transmission :** coordination technique, documentation et découverte d’outils numériques.
 
-Une aide intelligente pour comprendre les conditions de surf et choisir **où et quand aller surfer**.
-
-CRÉNEAU analyse les données et propose. **Le surfeur décide.**
-
-### 🧭 EXODE
-
-Un parcours pour reprendre progressivement le contrôle de sa vie numérique, **sans rupture brutale et sans idéologie imposée**.
-
-EXODE montre les dépendances, propose des chemins de sortie et laisse chacun décider jusqu’où aller.
-
-### 🛡️ LUCIDE
-
-Un pare-feu cognitif local qui rend visibles les mécanismes de répétition, de captation et de dérive algorithmique.
-
-LUCIDE ne dit pas quoi penser. **Il redonne l’espace nécessaire pour penser par soi-même.**
+**Pour qui ?** Associations, acteurs du réemploi, structures de quartier, ateliers partagés et organisations souhaitant explorer un besoin concret. Les conditions de toute intervention restent à définir ensemble.
 
 ---
 
-## Notre façon de créer
+## Trois projets à découvrir
 
-SillageLabs assume l’usage de l’IA dans la conception et le développement de ses produits.
+### 🔧 REPRISE
+Outils en développement pour identifier, tester et préparer des appareils numériques en vue de leur réemploi, notamment sous Android et Linux. Les fonctions et compatibilités varient selon les appareils.
 
-Mais utiliser l’IA ne signifie pas retirer l’humain du processus.
+### 📡 BALISE
+Expérimentation de terminaux reconditionnés, de modules radio et de ressources consultables hors connexion. Un projet de résilience numérique, sans promesse de couverture ou de service d’urgence garanti.
 
-Nous cherchons au contraire à construire des outils :
+### 🧩 CARAPACE
+Conception paramétrique et fabrication additive de pièces, coques et supports. Prototypes et expérimentations en cours.
 
-- utiles
-- transparents
-- explicables
-- respectueux de la vie privée
-- réversibles
-- compréhensibles par leurs utilisateurs
+**Autres explorations :** CRÉNEAU, EXODE, LUCIDE, SIGNE IA, HORS-CHAMP et d’autres travaux en évolution. Leur maturité est variable.
+
+**Accès au code :** certains dépôts sont privés ou en préparation. Aucun lien « Voir le dépôt » n’est proposé tant qu’il ne mène pas à une ressource publique accessible.
 
 ---
 
-## Principe fondateur
+## Comment je crée avec l’IA
 
-> **Nous utilisons l’intelligence artificielle pour augmenter la capacité d’agir des humains, jamais pour leur retirer du choix.**
+J’assume l’utilisation de l’IA dans la recherche, la conception, la programmation et la documentation. **L’IA propose, analyse et contribue à construire. Je définis les objectifs, arbitre, vérifie et assume les décisions.**
 
-### **SillageLabs — L’IA construit. L’humain décide.**
+J’essaie de concevoir des outils utiles, transparents, explicables et réversibles, qui respectent la vie privée et la capacité de décision des utilisateurs.
+
+### Principes
+
+- L’humain garde la décision finale.
+- Les mécanismes importants doivent pouvoir être expliqués.
+- Les données collectées doivent rester limitées, contrôlables et effaçables.
+- Le traitement local est privilégié quand il est pertinent.
+- Les affirmations, observations et hypothèses doivent rester distinguées.
+- Les automatisations importantes doivent être réversibles.
+
+La version complète figure dans la **[charte SillageLabs](https://github.com/SillageLabs/.github/blob/main/PRINCIPES.md)**.
+
+---
+
+## Contact et présence publique
+
+- Site : [sillagelabs.fr](https://sillagelabs.fr)
+- Projets : [GitHub SillageLabs](https://github.com/SillageLabs)
+- LinkedIn : [Nicolas Arramy](https://www.linkedin.com/in/nicolas-arramy-a19748135/)
+
+**SillageLabs — L’IA construit. L’humain décide.**
