@@ -76,6 +76,6 @@ La version complète figure dans la **[charte SillageLabs](https://github.com/Si
 - Site : [sillagelabs.fr](https://sillagelabs.fr)
 - Projets : [GitHub SillageLabs](https://github.com/SillageLabs)
 
-Le lien LinkedIn sera ajouté après vérification de l’URL publique correcte.
+- LinkedIn : [Nicolas Arramy](https://www.linkedin.com/in/nicolas-arramy-a19748135/)
 
 **SillageLabs — L’IA construit. L’humain décide.**
